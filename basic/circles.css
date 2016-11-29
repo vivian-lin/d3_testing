@@ -1,0 +1,11 @@
+svg {
+  background-color: steelblue;
+}
+
+circle {
+  fill: white;
+}
+
+.svgConnected {
+  background-color: lightgreen;
+}
